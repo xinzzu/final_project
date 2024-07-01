@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94384910416",
+    "project_id": "xinzzui-x",
+    "storage_bucket": "xinzzui-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94384910416:android:b50148ba868c2270306155",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmmceasPBAeA-A1Rl83Rt8WChH-2L7zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94384910416:android:25f21213a244eb2f306155",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmmceasPBAeA-A1Rl83Rt8WChH-2L7zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
